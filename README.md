@@ -25,24 +25,5 @@ Randomization (srand, rand)
 
 Memory and Variable Management
 
-💻 How to Run
-To compile and run this program on your local machine, ensure you have a C compiler (like GCC) installed.
-
-Clone the repository:
-
-Bash
-git clone https://github.com/AliG-35/Number-Guessing-Game.c.git
-Navigate to the project folder:
-
-Bash
-cd number-guessing-game-c
-Compile the code:
-
-Bash
-gcc main.c -o guessing_game
-Execute the program:
-
-Bash
-./guessing_game
 🎓 About the Author
 This project was developed by a Computer Engineering student at Izmir Katip Celebi University. As a developer with C-level English proficiency, I focus on writing clean, well-documented, and efficient code to solve fundamental computing problems.
