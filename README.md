@@ -31,7 +31,7 @@ To compile and run this program on your local machine, ensure you have a C compi
 Clone the repository:
 
 Bash
-git clone https://github.com/AliG-35/Number-Guessing-Game-c.git
+git clone https://github.com/AliG-35/Number-Guessing-Game.c.git
 Navigate to the project folder:
 
 Bash
